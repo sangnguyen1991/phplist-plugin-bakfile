@@ -1,7 +1,7 @@
 <?php
 class AdminExportLimit extends phplistPlugin
 {
-  public $name = "backup file plugin for phpList.";
+  public $name = "AdminExportLimit file plugin for phpList.";
   public $coderoot = '';
   public $version = "0.1";
   public $authors = 'ntsang';
